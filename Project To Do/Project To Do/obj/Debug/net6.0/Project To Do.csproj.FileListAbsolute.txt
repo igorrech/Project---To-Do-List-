@@ -1,0 +1,15 @@
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\bin\Debug\net6.0\Project To Do.exe
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\bin\Debug\net6.0\Project To Do.deps.json
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\bin\Debug\net6.0\Project To Do.runtimeconfig.json
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\bin\Debug\net6.0\Project To Do.dll
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\bin\Debug\net6.0\Project To Do.pdb
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\obj\Debug\net6.0\Project To Do.csproj.AssemblyReference.cache
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\obj\Debug\net6.0\Project To Do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\obj\Debug\net6.0\Project To Do.AssemblyInfoInputs.cache
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\obj\Debug\net6.0\Project To Do.AssemblyInfo.cs
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\obj\Debug\net6.0\Project To Do.csproj.CoreCompileInputs.cache
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\obj\Debug\net6.0\Project To Do.dll
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\obj\Debug\net6.0\refint\Project To Do.dll
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\obj\Debug\net6.0\Project To Do.pdb
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\obj\Debug\net6.0\Project To Do.genruntimeconfig.cache
+C:\Users\igorr\OneDrive\Ambiente de Trabalho\Project ToDo List\Project To Do\Project To Do\obj\Debug\net6.0\ref\Project To Do.dll
